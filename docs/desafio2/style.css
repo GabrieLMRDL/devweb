@@ -1,0 +1,27 @@
+
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.arrumar{
+display: flex;
+justify-content: center;
+
+
+
+}
+footer {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background-color: #cfcece; 
+    padding: 20px;
+  }
+  
+  .footer-section {
+    display: flex;
+    color: white;
+    text-align: left;
+  }
+
+
