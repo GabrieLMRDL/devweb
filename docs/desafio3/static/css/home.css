@@ -1,0 +1,48 @@
+
+.container{
+    display:flex;
+    justify-content: center;
+    padding-top: 39px;
+
+}
+footer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.direitos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel, .carousel-inner, .carousel-item {
+    width: 100%;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    width: auto;
+    height: auto;
+    background: none;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(0, 0, 0, 0.5); /* Coloque a cor desejada para o ícone */
+    border-radius: 50%;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+
+
+
