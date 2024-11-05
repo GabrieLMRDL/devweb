@@ -1,1 +1,1 @@
-# devWeb
+# repositório destinado às atividades de desenvolvimento web e Design Digital da FATEC 
